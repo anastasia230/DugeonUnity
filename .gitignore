@@ -1,8 +1,29 @@
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Uu]serSettings/
-[Aa]ssets/Plugins/Editor/*.cs.meta
+[Uu]ser[Ss]ettings/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Unity crash/debug
+*.pidb
+*.booproj
+*.svd
+
+# Others
+*.bak
+*.tmp
